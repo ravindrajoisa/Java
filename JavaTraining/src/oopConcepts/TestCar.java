@@ -38,7 +38,8 @@ public class TestCar {
 		c.fuel();
 		c.stop();
 		
-		Jeep o = (Jeep) new AutoInherit();  //Casting
+		Jeep o = (Jeep) new AutoInherit();  //Casting - Exception: java.lang.ClassCastException
+		//compile time works, but run time it throws an exception as the java gets confused.
 		
 	}
 
