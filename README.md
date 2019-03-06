@@ -1,2 +1,3 @@
 # Java
-Java Practice for Begineers - Online Training
+Java - Online Training. 
+Code that I am about to publish for online Java trainings.
