@@ -7,8 +7,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 /**
- * @author ravindra
- *
+ * @author ravindra 
  */
 public class LinkedListConcept {
 
