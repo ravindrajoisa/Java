@@ -4,9 +4,7 @@
 package javaBasics;
 
 /**
- * 
  * @author ravindra
- *
  */
 public class Singleton {
 
