@@ -22,7 +22,7 @@ public class Singleton {
 		str = "ravindra";
 	}
 	
-	private static Singleton s = null;				//set s = null
+	private static Singleton s = null;				
 		String str;
 	
 	public static Singleton getInstance() {			//lazy initialization
