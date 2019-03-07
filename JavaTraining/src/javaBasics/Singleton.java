@@ -18,11 +18,11 @@ public class Singleton {
 	 * Singleton patterns are used in logging, caches, thread pools, configuration settings, device driver objects.
 	 */
 	
-	private Singleton() {
+	private Singleton() {							//private constructor
 		str = "ravindra";
 	}
 	
-	private static Singleton s = null;
+	private static Singleton s = null;				//set s = null
 		String str;
 	
 	public static Singleton getInstance() {			//lazy initialization
